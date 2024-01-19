@@ -27,7 +27,7 @@ sudo install python3-pip -y
 
 | library | category | description |
 | --- | --- | --- |
-| [**openai**]() | Assistent | GPT, Whisper and Dall-e (Voice Recognition) |
+| [**openai**]() | Assistent | GPT, Whisper (Voice Recognition) and Dall-e |
 | [**gtts**]() | TextToSpeech | Google Text To Speech |
 | [**sounddevice**]() | Audio | controls your systems sound devices |
 | [**pygame**]() | Multimedia | -- |
