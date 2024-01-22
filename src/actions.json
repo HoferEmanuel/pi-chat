@@ -1,0 +1,27 @@
+{
+	"test": "test",
+	
+	"temperature" : "temperature",
+	"ego" : "ego",
+	"repeat that" : "repeat",
+	"playlist" : "playlist",
+	"change your name" : "nameChange",
+	"track" : "track",
+	"song" : "track",
+	"tell me": "gpt",
+	
+	"i need an image": "imgGen",
+	"i need a image": "imgGen",
+	
+	"play a video": "playVideo",
+	"play video": "playVideo",
+	
+	"shut down": "shutdown",
+	"bye bye": "shutdown",
+	"bye": "shutdown",
+	"turn off": "shutdown",
+	
+	"never mind": "back",
+	"set alarm": "setAlarm",
+	"schnitzel": "schnitzel"
+}

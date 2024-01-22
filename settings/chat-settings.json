@@ -1,0 +1,10 @@
+{
+    "chat_preset": "test",
+    "tts_enabled": true,
+    "tts_language": "en",
+    "voice_mode": false,
+    "save_convos": true,
+    "img_model": "dall-e-3",
+    "img_res": "1024x1024",
+    "img_quality": "standard"
+}
